@@ -6,12 +6,7 @@ permalink: /about/
 
 
 ---
-My name is Christopher Fouad Jabbour. My alma mater is Saint Vincent College for my Bachelors Arts in Liberal Arts (concentration in Bioinformatics) with a minor in Computer Science and Masters of Science in Cybersecurity from Robert Morris University in Pittsburgh, PA.
-
-I am a Java Full Stack Web Developer from Pittsburgh PA, USA. My educational background was cybersecurity and I found my way into web development which became my main focus and I always love to learn new things from tech as well as writing. I love to learn art as well and different languages (not just programming languages).
-
-I believe there is always something to learn and the bus never stops on education and keeping our mind open to changes.  
-
+“I would rather have questions that cannot be answered than answers that cannot be questioned”} these words of Dr. Richard P. Feynman have always guided me. My passion and curiosity have pushed me to research in different areas, working in innovative projects and knowing worldwide brilliant people. Now, following my age-long ambition, I am working at CERN.
 ### Contact me
 ___
 You can always contact me about anything business related, feedback, as well as opportunities on my social media platforms.

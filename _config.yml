@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Christopher Fouad Jabbour
+name: Pau CV
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Pittsburgh, PA
+description: Software Engineer at CERN
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/12942076?s=400&u=6a976c566022f24d7fceae57b9d98a204e141e67&v=4
+avatar: https://avatars2.githubusercontent.com/u/47900195?s=400&u=3f5a2bbc32a1404ff18826781686c33fde692b7b&v=4
 #
 # Flags below are optional
 #
@@ -17,12 +17,12 @@ avatar: https://avatars0.githubusercontent.com/u/12942076?s=400&u=6a976c566022f2
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: cjabbtech@gmail.com
+  email:
   facebook:
   flickr:
-  github: ChrisJabb21
+  github: 4quarks
   instagram:
-  linkedin: christopher-jabbour-01a43364/
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://chrisjabb21.github.io
+url: https://4quarks.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
